@@ -11,4 +11,5 @@ Task-4
 🔍 Results: The model outputs the optimal number of chairs and tables to produce and the corresponding maximum profit, ensuring all constraints are respected. This project demonstrates how mathematical optimization can directly guide profitable business decisions.
 
 ###output
+<img width="1280" height="910" alt="Image" src="https://github.com/user-attachments/assets/d458cb6f-b1a8-4517-9970-bbcf644a0e5f" />
 
